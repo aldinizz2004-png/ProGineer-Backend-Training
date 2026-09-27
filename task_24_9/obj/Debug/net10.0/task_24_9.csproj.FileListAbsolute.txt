@@ -1,0 +1,14 @@
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.AssemblyInfoInputs.cache
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.AssemblyInfo.cs
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.csproj.CoreCompileInputs.cache
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\bin\Debug\net10.0\task_24_9.exe
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\bin\Debug\net10.0\task_24_9.deps.json
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\bin\Debug\net10.0\task_24_9.runtimeconfig.json
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\bin\Debug\net10.0\task_24_9.dll
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\bin\Debug\net10.0\task_24_9.pdb
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.dll
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\refint\task_24_9.dll
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.pdb
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\task_24_9.genruntimeconfig.cache
+C:\Users\Asus i7\Desktop\C#_inter\task_24_9\obj\Debug\net10.0\ref\task_24_9.dll
